@@ -1,6 +1,6 @@
 # tetris_pygame
 
-````sql
+````python
 import pygame
 import random
 
