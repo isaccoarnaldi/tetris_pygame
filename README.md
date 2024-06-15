@@ -1,4 +1,4 @@
-# tetris_pygame
+# Tetris
 
 ````python
 import pygame
