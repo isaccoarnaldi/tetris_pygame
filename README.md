@@ -1,5 +1,11 @@
 # Tetris
 
+<p align="center">
+<img src="https://github.com/isaccoarnaldi/tetris_pygame/blob/main/Tetris.png" alt="Image" width="500" height="520">
+</p>
+
+***
+
 ````python
 import pygame
 import random
